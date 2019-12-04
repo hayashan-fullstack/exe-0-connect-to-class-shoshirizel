@@ -2,6 +2,6 @@
 
 ## update your name and id
 
-name:
+name:shoshi rizel
 
-id:
+id:207879099
